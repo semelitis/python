@@ -16,5 +16,6 @@ elif(type_of_calculation == "/"):
 else:
     print("Wrong input")
 
-
+'''lalala
+'''
 print(type((a/b)))    
